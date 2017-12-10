@@ -1,4 +1,4 @@
-#Sorting Order and Statistics
+# Sorting Order and Statistics
 A project in CMSC 142, Design and Analysis of Algorithms
 
 Programming language used: Java
